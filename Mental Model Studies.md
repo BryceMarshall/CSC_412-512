@@ -1,18 +1,34 @@
-Mental Model studies in HCI
+### Mental Model studies in HCI
 
 - Student interactions with ATMS: Students asked questions about the functions of an ATM revealed the mental model they held for the functionality and design of the machine and what information is stored on an access card (Collins and Genter, 1987)
 
-Mental Model studies in Software
+### Mental Model studies in Software
 
 - Users’ understanding of browsers:  Showed that users do not have an accurate understanding of how the “back” and “forward” buttons of browsers work because they did not have a correct mental model for how search histories are saved and updated when back and forward are clicked (Cockburn and Jones, 1996)
 
-Mental Model studies in Interface Design
+### Mental Model studies in Interface Design
 
 - [[Mental Model Measurement Methods|Measuring]] student mental models: Conducted an experiment utilizing a questionnaire designed to measure the “degree of formed mental model” which pertains to logical thinking and organization. This approach provided insights into the potential effectiveness of mental model measurement methods and understanding ussr cognition related to interface design ([Mori and Yamaoka, 2014](https://personales.upv.es/thinkmind/dl/conferences/achi/achi_2014/achi_2014_3_40_20183.pdf)).
 
-Mental Model studies on System Descriptions 
+#### [Biswas *et al.* (2012)](https://doi.org/10.1080/10447318.2011.565718) 
+- The study, Designing Inclusive Interfaces Through User Modeling and Simulation, focuses on addressing accessibility challenges in digital interfaces by using user modeling and simulation. It emphasizes that traditional design practices often treat accessibility as an afterthought, resulting in interfaces that are difficult to use for people with visual, cognitive, and motor impairments. To counter this, the study introduces a simulation-based approach that helps designers predict interaction challenges and refine interfaces before real-world testing.
+![image](https://github.com/user-attachments/assets/c2200476-8e17-40ca-ba79-290c1c4e37b1)
+- The methodology of this study is centered around a simulation-based approach that models user interaction with digital interfaces to predict usability challenges before real-world testing. this study, the simulation system integrates principles from the [GOMS](LINK TO KNOWLEDGE OF METHODS) model to evaluate how users—particularly those with accessibility needs—navigate and interact with digital interfaces. The simulator is built using an Application Model, which breaks tasks into interaction sequences, an Interface Model, which defines input and output configurations, and a User Model, which applies behavioral predictions to simulate diverse user interactions. To validate the simulator’s accuracy, two case studies were conducted: an icon searching task, where users located and clicked on interface elements of varying sizes and spacing, and a menu selection task, which assessed how users navigated a digital TV program menu. The predicted results from the simulator were compared against real user performance, showing a high correlation in task completion times and interaction difficulties, confirming the validity of the simulation framework as an effective tool for evaluating and improving accessibility in UI design.
 
-- [[Mental Model Measurement Methods|Measuring]] how initial system descriptions influence mental models and [[Accessibility|user responses]]: Manipulated the participants’ mental models by providing them with either accurate or misleading information about a system’s automated driving functionality before they interacted with it. It was concluded that initial system descriptions significantly influence mental models and user interactions. Findings highlight the importance of accurate and complete instructions when designing systems ([Blömacher et al, 2019](https://www.sciencedirect.com/science/article/abs/pii/S1369847819302086)).
+- The research aims to develop inclusive systems by:
+  - Helping designers understand the challenges faced by users with varying abilities.
+  - Providing a simulation tool to evaluate interface usability for a diverse range of users.
+  - Allowing designers to test different interface configurations and predict user performance.
+  - Reducing reliance on time-consuming user trials by offering accurate model-based predictions.
+- See [Accessibility](LINK TO ACCESSIBLITY) for more information on [user models](LINK TO USER MODELS) with respect to designing inclusive systems.
+
+#### [Sulong & Raja Yusof, (2024)](https://doi.org/10.1007/s10209-023-01035-5) 
+- 
+- See [Accessibility](LINK TO ACCESSIBLITY) for more information on [user models](LINK TO USER MODELS) with respect to designing inclusive systems.
+
+### Mental Model studies on System Descriptions 
+
+### [[Mental Model Measurement Methods|Measuring]] how initial system descriptions influence mental models and [[Accessibility|user responses]]: Manipulated the participants’ mental models by providing them with either accurate or misleading information about a system’s automated driving functionality before they interacted with it. It was concluded that initial system descriptions significantly influence mental models and user interactions. Findings highlight the importance of accurate and complete instructions when designing systems ([Blömacher et al, 2019](https://www.sciencedirect.com/science/article/abs/pii/S1369847819302086)).
 
 ![[mental-model-study.jpg | center | 500]]
 
@@ -189,72 +205,6 @@ Innovative Collaborative Systems:
   
 
 **Biswas, P., Robinson, P., & Langdon, P. (2012). Designing inclusive interfaces through user modeling and simulation.** **_International Journal of Human-Computer Interaction, 28_****(1), 1–33.** [**https://doi.org/10.1080/10447318.2011.565718**](https://doi.org/10.1080/10447318.2011.565718) 
-
- This paper focuses on improving accessibility and inclusivity in interface design through user modeling and simulation. It argues that current design practices often isolate elderly and disabled users, treating them as having “special needs” rather than incorporating accessibility from the outset.
-
-To address this, the paper introduces a simulation-based approach to help designers understand and predict the interaction challenges faced by users with different abilities. The simulation system models:
-
-1. Perceptual impairments (e.g., vision loss, color blindness).
-2. Cognitive processes (e.g., how users navigate interfaces).
-3. Motor impairments (e.g., difficulty using a mouse or touch interface).
-
-The system evaluates interfaces by simulating interaction patterns for diverse users and can predict task completion times based on user characteristics. It reduces the need for extensive user trials and allows designers to test different design alternatives efficiently.
-
-- Mental Model (main)
-
-- User Models
-
-The paper classifies user models based on:
-
-- Cognitive abilities (e.g., decision-making speed, memory constraints).
-- Motor skills (e.g., hand strength, pointer control).
-- Visual perception (e.g., color blindness, focus areas).
-
-Three main types of user models used in the simulator:
-
-1. Perceptual Model – Simulates how users see and process visual information.
-2. Cognitive Model – Represents decision-making strategies and attention allocation.
-3. Motor Behavior Model – Predicts cursor movement and interaction challenges
-
-- User Interface
-
-- Highlights UI challenges for users with disabilities, including
-
-1. Poor text readability
-2. Navigation difficulties (complex menus, lack of shortcuts)
-3. Inefficient cursor movement
-
-- Design
-
-The authors emphasize the importance of "designing for all" rather than retrofitting accessibility later.
-
-The simulator supports adaptive UI design:
-
-- Customizable text sizes and color contrast for visually impaired users.
-- Predictive UI adaptation based on user skill levels.
-- Different interaction models for users with motor impairments.
-
-- Accessibility
-
-- Security
-
-  
-
-usability security issues are discussed.
-
-- Password entry for visually/motor-impaired users (e.g., difficulty with masked passwords).
-- Confusing authentication methods (e.g., CAPTCHAs that are not screen-reader friendly).
-- Accidental actions due to interface misalignment (e.g., misclicks by users with tremors).
-- Evaluation of mental models
-
-The paper proposes a systematic method for evaluating mental models:
-
-1. Simulation-based analysis – Predicts how different user groups interact with interfaces.
-2. Comparative studies – Validates predictions against real-world user testing.
-3. Statistical validation – Uses task completion times and error rates to measure model accuracy.
-
-- Future work
-  
 
   
 
