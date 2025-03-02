@@ -1,0 +1,11 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":straight_ruler:",
+    ":balance_scale:",
+    ":closed_lock_with_key:"
+  ]
+}
