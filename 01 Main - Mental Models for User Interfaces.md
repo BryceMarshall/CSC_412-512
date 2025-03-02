@@ -10,11 +10,6 @@ The primary topic of this vault is mental models for UI design. The main subtopi
 [[Measuring Mental Models]]
 [[Mental Model Measurement Methods]]
 [[Applications of Mental Models to Design]]
-  
-Additional theory background can be accessed at:
-
+[[Future of Mental Models]]
 [[Mental Models and Behaviour]]
-[[Mental Model Studies]]
-[[Representations of User Knowledge]]
-[[Evolution of Mental Models]]
   

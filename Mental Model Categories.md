@@ -4,7 +4,7 @@ User’s mental model accurately imitates the system behavior but without reason
 
 ## Metaphors
 
-User’s mental model of a system is an accurate or correlated comparison to a different system that the user knows apriori. The reasoning may be metaphorically accurate or could become persistent causes of error. Metaphors are easy to learn and construct and provide explanations, but could be very inaccurate.
+User’s mental model of a system is an accurate or correlated comparison to a different system that the user knows a priori. The reasoning may be metaphorically accurate or could become persistent causes of error. Metaphors are easy to learn and construct and provide explanations, but could be very inaccurate.
 
 ## Glass box
 

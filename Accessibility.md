@@ -10,7 +10,7 @@ Understanding how users interact with digital interfaces requires a comprehensiv
 ---
 Examples of design to support accessibility:
 - [[Apple’s design documentation for Right to Left (RTL) languages]]
-- [[Universal Design Principles in Graphical User Interface Understanding Visual Ergonomics for the Left-Handed Users in the Right-Handed World.]]
+- [[Visual Ergonomics for Left-Handed Users]]
 
 --- 
 ### Perceptual Impairments
@@ -62,6 +62,8 @@ Users with motor impairments develop different expectations and strategies for i
 Above: Mouse movement trajectory for a user with cerebral palsy, from ([Biswas *et al* (2012)](https://doi.org/10.1080/10447318.2011.565718)) 
 
 ([Biswas *et al* (2012)](https://doi.org/10.1080/10447318.2011.565718)) discusses how motor impairments affect users' ability to interact with digital interfaces and how [simulation-based modeling](LINK TO MENTAL MODEL STUDIES) can help designers anticipate and address these challenges, outlined below.
+
+## Design solutions for motor impairments
 
 - Difficulty with precise cursor movements (e.g., due to tremors, muscle weakness, or limited dexterity)
   - Solution: Increase button sizes and clickable areas to reduce the need for precision.

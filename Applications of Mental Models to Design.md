@@ -17,9 +17,12 @@
 Mental model of the designer and the user should match for a natural user experience. 
 
 - Read more at [[Apple’s design documentation for Right to Left (RTL) languages]]
-- Read more at [[Universal Design Principles in Graphical User Interface Understanding Visual Ergonomics for the Left-Handed Users in the Right-Handed World.]]
+- Read more at [[Visual Ergonomics for Left-Handed Users]]
+- [[Accessibility#Design solutions for motor impairments]] #TODO 
 
-Information Architecture: 
+
+
+## Information Architecture
 
 - Designing shared information environments such that the is understandable to all who use it - CAULDRON/UX paper cite later
 - [[CAULDRON]] #TODO
