@@ -13,8 +13,6 @@
 
 - Wright and Bason (1982) experimented with designing two software packages for data analysis. The first package’s interface was designed to be as similar as possible to users’ prior knowledge and what operations users wanted. The second package was designed based on how what the system designer thought should be done with the data. The second design was overwhelmingly preferred, suggesting that designing based on the user’s existing knowledge and preferences may not be better.
 
-  
-
 - Carroll and Carrithers (1984) designed a system interface based on the [[Mental Model Categories#Glass box|glass box model]] which taught the user to use the system by initially introducing a small set of commands and gradually introduced complicated commands, which led to [[Instructions for Mental Models|faster learning]].
 
 - Mental model of the designer and the user should match for a natural user experience. -> link to accessibility 
