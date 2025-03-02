@@ -1,4 +1,4 @@
-## Accessibiliy 
+## Accessibility 
 
 Understanding how users interact with digital interfaces requires a comprehensive approach that considers the diverse ways individuals perceive, process, and physically engage with information. Mental models, which shape user expectations and behaviors, vary significantly based on cognitive abilities, sensory perception, and motor skills. To design truly inclusive and accessible interfaces, [user models](INSERT LINK) must account for these differences. 
 
