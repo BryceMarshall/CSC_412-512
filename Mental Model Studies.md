@@ -8,12 +8,13 @@ Mental Model studies in Software
 
 Mental Model studies in Interface Design
 
-- [[Mental Model Measurement Methods|Measuring]] student mental models: Conducted an experiment utilizing a questionnaire designed to measure the “degree of formed mental model” which pertains to logical thinking and organization. This approach provided insights into the potential effectiveness of mental model measurement methods and understanding ussr cognition related to interface design ([Mori and Yamaoka, 2014](https://personales.upv.es/thinkmind/dl/conferences/achi/achi_2014/achi_2014_3_40_20183.pdf))
+- [[Mental Model Measurement Methods|Measuring]] student mental models: Conducted an experiment utilizing a questionnaire designed to measure the “degree of formed mental model” which pertains to logical thinking and organization. This approach provided insights into the potential effectiveness of mental model measurement methods and understanding ussr cognition related to interface design ([Mori and Yamaoka, 2014](https://personales.upv.es/thinkmind/dl/conferences/achi/achi_2014/achi_2014_3_40_20183.pdf)).
 
 Mental Model studies on System Descriptions 
 
-- [[Mental Model Measurement Methods|Measuring]] how initial system descriptions influence mental models and [[Accessibility|user responses]]: Manipulated the participants’ mental models by providing them with either accurate or misleading information about a system’s functionality before they interacted. Concluded that initial system descriptions significantly influence mental models and user interactions. Findings highlight the importance of accurate and complete instructions when designing systems ([Blömacher et al, 2019](https://www.sciencedirect.com/science/article/abs/pii/S1369847819302086))
+- [[Mental Model Measurement Methods|Measuring]] how initial system descriptions influence mental models and [[Accessibility|user responses]]: Manipulated the participants’ mental models by providing them with either accurate or misleading information about a system’s automated driving functionality before they interacted with it. It was concluded that initial system descriptions significantly influence mental models and user interactions. Findings highlight the importance of accurate and complete instructions when designing systems ([Blömacher et al, 2019](https://www.sciencedirect.com/science/article/abs/pii/S1369847819302086)).
 
+![[mental-model-study.jpg | center | 500]]
 
 **Sulong, S., & Raja Yusof, R. J. (2024). Developing a blind user mental model (BlUMM) for web browsing.** **_Universal Access in the Information Society, 23_****(1343–1367).** [https://doi.org/10.1007/s10209-023-01035-5](https://doi.org/10.1007/s10209-023-01035-5).
 
