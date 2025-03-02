@@ -4,17 +4,17 @@ Mental model: The core idea of a mental model, with regards to some system, is t
 
   
 The primary topic of this vault is mental models for UI design. The main subtopics we discuss are: 
-[[Accessibility 🐉]]
-[[Security 🔐]]
-[[Mental Models in Groups 👩‍👩‍👦‍👦]]
+[[Accessibility]]
+[[Security]]
+[[Mental Models in Groups]]
 [[Measuring Mental Models]]
-[[Mental Model Measurement Methods 📏]]
+[[Mental Model Measurement Methods]]
+[[Applications of Mental Models to Design]]
   
 Additional theory background can be accessed at:
 
-[[Mental Models and Behaviour 🧠]]
+[[Mental Models and Behaviour]]
 [[Mental Model Studies]]
 [[Representations of User Knowledge]]
-[[Applications of Mental Models to Design]]
 [[Evolution of Mental Models]]
   

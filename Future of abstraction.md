@@ -1,0 +1,3 @@
+## Future of abstraction
+
+Abstraction is a crucial part of living in a high technology world, but it does have a negative consequence to its misuse. Modern computer systems are extremely complicated and far more intricate than the average person needs to understand in order to use the technology.  Plus, companies often purposely hide how their technology works from their users. This creates a very real risk of users of a technology being unable to debug and fix a technology that is important to them. An example of this might be when a person with diabetes requires an insulin pump to survive but not knowing what to do if the device fails.
