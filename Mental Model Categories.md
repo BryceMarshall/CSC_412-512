@@ -1,6 +1,6 @@
 ## Surrogates 
 
-User’s mental model accurately imitates the system behavior but without reasons for why outputs are generated. Surrogates are very difficult to construct and people may not ever construct surrogate mental models 
+[[User Models|User’s mental model]] accurately imitates the system behavior but without reasons for why outputs are generated. Surrogates are very difficult to construct and people may not ever construct surrogate mental models 
 
 ## Metaphors
 
