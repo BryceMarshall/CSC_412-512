@@ -18,12 +18,18 @@ Mental model of the designer and the user should match for a natural user experi
 
 - Read more at [[Apple’s design documentation for Right to Left (RTL) languages]]
 - Read more at [[Visual Ergonomics for Left-Handed Users]]
-- [[Accessibility#Design solutions for motor impairments]] #TODO 
-
-
+- When designing systems for the general public, disabilities are often not considered. Read more at [[Accessibility#Design solutions for perceptual impairments|solutions for perceptual impairments]] & [[Accessibility#Design solutions for motor impairments|solutions for motor impairments]]
+  -  People with limitations to their movement or sight face unique barriers when it comes to device security. Read more at [[Accessibility#Design solutions for adaptive security|solutions for adaptive security]]
 
 ## Information Architecture
 
-- Designing shared information environments such that the is understandable to all who use it - CAULDRON/UX paper cite later
-- [[CAULDRON]] #TODO
+Information Architecture (IA) is the practice of structuring, organizing, and labeling information in a way that aligns with users’ mental models, ensuring that digital interfaces are intuitive and easy to navigate. Mental models represent how users expect a system to work based on prior experiences and cognitive processes. When IA aligns with users' mental models, it enhances usability, efficiency, and decision-making, allowing users to find and process information with minimal effort. Conversely, if IA and mental models do not match, it can cause confusion, increased cognitive load, and navigation difficulties.
+
+In user experience (UX) design, IA plays a critical role in creating logical site structures, intuitive navigation menus, and accessible content layouts. Designers apply mental models to categorize information effectively, ensuring that users can predict where to find content based on familiar patterns. Methods like [[Card Sorting|card sorting]] help researchers understand how users mentally group information, allowing them to refine IA accordingly.
+
+![1_7oRvq4UWrhSfjEadnSdMZA](https://github.com/user-attachments/assets/83fce1ca-9286-470d-bf43-32c85c0f7de9)
+
+Above: An example of the information architecture for an e-commerce site. [Image source](https://medium.muz.li/what-is-information-architecture-ux-tips-and-examples-49523d0c2ab5)
+
+[Martín & Macías (2023)](https://doi.org/10.1080/10447318.2022.2041885) developed [[CAULDRON]] - Comprehensive Analysis User-centered Learning-based Decision-making Research On Navigation – as a tool to help designers capture user models and inform information architecture. 
 
