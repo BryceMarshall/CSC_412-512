@@ -5,6 +5,9 @@ CAULDRON
 
 - Card Sorting is a UX research method used to show how users mentally organize and categorize information – like connectoins 
 
+![image](https://github.com/user-attachments/assets/46b4f25e-22ca-4112-86b6-913c29d4439a)
+
+
 1. Participants are given a set of "cards"
 
 - Each card represents a piece of content, a feature, or a concept.
