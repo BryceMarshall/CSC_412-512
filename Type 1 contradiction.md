@@ -1,3 +1,5 @@
+## Type 1 contradiction
+
 A type 1 contradiction is by far the most common and costly to the average user. A type 1 contradiction is usually caused by [[Abstraction]] because as technology gets more advanced and user friendly, the act of "Troubleshooting" becomes "it just works".
 
 A  well-trodden example of the consequences of a type 1 contradiction is the anecdote of how scammers routinely attack the livelihood of the elderly. According to [Steven Kemp and Nieves Erades Pérez](https://search.library.uvic.ca/permalink/01VIC_INST/1ohem39/cdi_pubmedcentral_primary_oai_pubmedcentral_nih_gov_10094555), the truth is that the elderly are less likely to lose money to scammers, but they are far more likely to be embarrassed by an attack. The reason that this anecdote exists is the fact that the elderly have a very poor mental model of the internet and consequently are less able to protect themselves than someone with a stronger mental model.

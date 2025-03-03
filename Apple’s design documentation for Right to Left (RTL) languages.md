@@ -1,4 +1,4 @@
-Apple’s design documentation for Right to Left (RTL) languages
+# Apple’s design documentation for Right to Left (RTL) languages
 
 - Don’t reverse the order of numerals in a specific number. Even if the number appears in RTL language, keep numerals in a specific number left to right.
 

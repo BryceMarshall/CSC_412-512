@@ -1,5 +1,5 @@
 
-# Mental models and cyber security
+# Mental models and Cyber Security
     
 Mental models play an important role in the effectiveness of cybersecurity. This primarily happens when one's mental model of how a system works contradicts with the reality of that system. This can increase the chances of cyberattacks, like scams, because one does not know how to identify key markings of a scammer, how to identify a dangerous site, or the common methods that scammers use to attack. 
 

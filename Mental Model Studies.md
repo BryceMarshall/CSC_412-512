@@ -18,6 +18,6 @@
 
 ## Mental Model studies on System Descriptions
 
-- Measuring how initial system descriptions influence mental models and user responses (link to how mental models affect behaviour and measuring): Manipulated the participants’ mental models by providing them with either accurate or misleading information about a system’s functionality before they interacted. Concluded that initial system descriptions significantly influence mental models and user interactions. Findings highlight the importance of accurate and complete instructions when designing systems (Blömacher, Nöcker, and Huff, 2019)
+- [[Mental Model Measurement Methods|Measuring]] how initial system descriptions influence mental models and [[Accessibility|user responses]]: Manipulated the participants’ mental models by providing them with either accurate or misleading information about a system’s automated driving functionality before they interacted with it. It was concluded that initial system descriptions significantly influence mental models and user interactions. Findings highlight the importance of accurate and complete instructions when designing systems ([Blömacher et al, 2020](https://www.sciencedirect.com/science/article/abs/pii/S1369847819302086)).
 
 ![|600](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcWv1GBnG382ZlAu9VHf4Cei7c42K8MAJf3aNDiX_cqlUGaUvgtoNpxAtK5zX0f6mwhbiAeQNcbagAbCAyOD2r2dG-JSgMwqkjq747_SSGZyDEP728zf0A7vc03WjywW7awav28Fw?key=InPcM8oBWM0qEjlRW5SFMn1x)
