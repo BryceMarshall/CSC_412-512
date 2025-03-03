@@ -3,9 +3,9 @@
 Understanding how users interact with digital interfaces requires a comprehensive approach that considers the diverse ways individuals perceive, process, and physically engage with information. Mental models, which shape user expectations and behaviors, vary significantly based on cognitive abilities, sensory perception, and motor skills. To design truly inclusive and accessible interfaces, [[User Models]] must account for these differences. 
 
 [Biswas *et al* (2012)](https://doi.org/10.1080/10447318.2011.565718) grouped such user models into three distinct categories:
-1. Cognitive processes (e.g., handedness, language lateralization).
-2. Perceptual impairments (e.g., vision loss, color blindness).
-3. Motor impairments (e.g., tremours, involuntary movement)
+1. Cognitive (e.g., handedness, language lateralization).
+2. Perceptual (e.g., vision loss, color blindness).
+3. Motor (e.g., tremours, involuntary movement)
 
 ---
 ### Cognitive processes
@@ -15,7 +15,7 @@ Examples of design to support accessibility:
 - [[Visual Ergonomics for Left-Handed Users]]
 
 --- 
-### Perceptual Impairments
+### Perceptual Models
 
 Blind users often apply existing mental models based on past experiences with structured systems, however, when a website's layout does not align with these expectations — such as inclusion dynamic content loading, unlabeled elements, or inconsistent navigation structures — users experience disorientation and frustration. [Sulong & Raja Yusof (2024)](https://doi.org/10.1007/s10209-023-01035-5) explored how blind users compensate for these challenges by switching strategies, relying on search functions, heading navigation, or assistance from sighted users when necessary. They found serveral differences in the mental models of sighted and blind users, outlined below:
 
@@ -48,7 +48,7 @@ Above: Norman’s action cycle model, which guided [Sulong & Raja Yusof (2024)](
 
 --- 
 
-### Motor Impairments
+### Motor Models
 
 Users with motor impairments develop different expectations and strategies for interacting with digital interfaces compared to users without impairments. Their mental model of interaction is shaped by their physical limitations—they anticipate difficulty with precise cursor movements, the need for alternative navigation methods, or slower response times. If an interface does not accommodate these expectations, such as requiring double-clicking or precise dragging, it disrupts their workflow, making the system feel unintuitive and frustrating. 
 
