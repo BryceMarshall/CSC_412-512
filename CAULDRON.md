@@ -1,55 +1,31 @@
-#TODO  
+## CAULDRON
 
-CAULDRON
-- Comprehensive Analysis User-centered Learning-based Decision-making Research On Navigation – tool that advances Card Sorting by integrating predictive analytics and advanced statistical analysis 
+CAULDRON is a supporting tool for mental model elicitation and decision-making in user experience (UX) research, specifically designed to enhance Information Architecture (IA) development. Developed by [Martín & Macías (2023)](https://doi.org/10.1080/10447318.2022.2041885) It utilizes [[Card Sorting]], a widely used UX research technique, to analyze how users categorize and relate information. CAULDRON integrates advanced statistical analysis and machine learning techniques, such as K-Means Clustering and Decision Trees to display classification trends and category relationships.
 
-- Card Sorting is a UX research method used to show how users mentally organize and categorize information – like connectoins 
+The tool provides an interactive platform where UX researchers can collect, analyze, and refine information structures, enabling them to develop data-driven IA frameworks.
+
+### Why CAULDRON Was Designed
+
+The primary motivation behind CAULDRON was to address the limitations of traditional Card Sorting tools, which often rely on manual analysis and subjective interpretation. Many existing UX research methods lack quantitative validation and predictive capabilities, making it difficult for researchers to make informed decisions about IA structures. The authors designed CAULDRON to:
+
+1. Improve the efficiency of Card Sorting analysis by automating statistical and clustering methods.
+2. Enhance IA decision-making by providing researchers with quantifiable insights rather than relying on intuition.
+3. Reduce inconsistencies in how UX professionals interpret user sorting behaviors.
+4. Provide predictive modeling to explore how different user demographics influence categorization patterns.
+5. Make IA research more scalable, allowing UX teams to analyze large participant datasets without extensive manual effort.
 
 ![image](https://github.com/user-attachments/assets/46b4f25e-22ca-4112-86b6-913c29d4439a)
 
+Above: Results from the first iteration of CAULDRON
 
-1. Participants are given a set of "cards"
+### Key Findings from CAULDRON
 
-- Each card represents a piece of content, a feature, or a concept.
-- eg: A researcher might provide a list of app names (e.g., _YouTube, Facebook, Google Drive_).
+The study using CAULDRON provided several valuable insights:
 
-1. Users group the cards into categories
+1. Higher Data Accuracy – The tool's statistical techniques improved the reliability and consistency of IA evaluations, reducing subjective bias.
+2. Enhanced User Categorization Analysis – Clustering methods revealed hidden relationships between concepts, helping designers build more intuitive navigation structures.
+3. Decision Tree Findings – Predictive analytics showed that demographic factors (e.g., user expertise, familiarity with content) influenced how participants categorized information.
+4. Increased UX Research Efficiency – Automating Card Sorting analysis significantly reduced the time and effort required to process large datasets.
+5. Improved IA Validation – The tool provided evidence-based recommendations for refining IA, ensuring that navigation paths, menu structures, and labeling conventions aligned with user expectations.
 
-- Participants either use predefined categories or not
-
-1. Researchers analyze how users group information
-
-- The goal is to detect patterns in categorization, showa how users expect the content to be structured
-
-CAULDRON automates the process by adding:
-
-- Statistical analysis
-- Predictive modeling (eg., Decision Trees to analyze participant behavior)
-- Machine learning techniques 
-
-Why do this? Help with decision making, ML techniques, improve “information architecture”
-
-- Mental Model (main)
-
-- focuses on how users conceptualize information and categorize elements based on their mental models.
-- [[Card Sorting]] is used to uncover users’ mental models by analyzing how they classify different items.
-
-- User Models
-
-- indirectly addresses User Models by incorporating Decision Trees to analyze how different user characteristics (eg., experience, gender, time spent sorting) impact classification behavior.
-
-- User Interface
-
-- UX is a measure of how good UI is ?
-
-- Evaluation of mental models
-
-- Delphi method
-
-- expert consensus technique used to gather opinions from a group of participants through multiple rounds of feedback: individual -> group -> rpt until stable
-
-- Future work
-
-- CAULDRON
-
-**Martín, M., & Macías, J. A. (2023). A supporting tool for enhancing user’s mental model elicitation and decision-making in user experience research.** **_International Journal of Human–Computer Interaction, 39_****(1), 183-202.** [**https://doi.org/10.1080/10447318.2022.2041885**](https://doi.org/10.1080/10447318.2022.2041885)**.**
+For more examples of how mental models are advancing research, see [[Future of Mental Models]].
