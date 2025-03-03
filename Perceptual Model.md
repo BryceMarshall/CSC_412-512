@@ -2,6 +2,7 @@ Perceptual impairments are disabilities in perceptual organs such as visual loss
 
 # Mental model of blind users to assist designers in system development
 
+[[https://doi.org/10.1109/ITSIM.2010.5561350|This paper]] summarizes existing mental model of the blind population and advance the existing model.
 - Measuring mental model can be found [[Mental Model Measurement Methods|here]]
 - Understanding the mental model of blind users has been challenging.
 - Existing mental models for the blind are configured by Kurniawan and Sutcliffe. In the study by Kurniawan et al, blind people have 3 strategies in dealing with a new environment.
@@ -16,10 +17,3 @@ Perceptual impairments are disabilities in perceptual organs such as visual loss
 	- Exploration: explore desktop, explore application, discover new features…
 	- Task-action: plan interaction, execute, change strategy…
 	- Configuration: configure/use
-
-  
-
-# References
-
-- Saei, S. N. S. M., Sulaiman, S., & Hasbullah, H. (2010). Mental model of blind users to assist designers in system development. 2010 International Symposium on Information Technology, 1, 1–5. [https://doi.org/10.1109/ITSIM.2010.5561350](https://doi.org/10.1109/ITSIM.2010.5561350
-- Apple’s developer design guide documentation. Right to Left languages.[https://developer.apple.com/design/human-interface-guidelines/right-to-left](https://developer.apple.com/design/human-interface-guidelines/right-to-left)

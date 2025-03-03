@@ -28,6 +28,7 @@ Handedness has a fundamental and significant impact on user experience. Handedne
 
 # Universal Design Principles in Graphical User Interface: Understanding Visual Ergonomics for the Left-Handed Users in the Right-Handed World.
 
+This [[https://doi.org/10.1007/978-981-13-5977-4_67|paper]] has found that a mental model of left handed population using right handed mouse has been solidified that there was no benefit added by using their dominant hand for GUI interaction. 
 - People were introduced to computer mouse in their childhood. They use the mouse with their right hand since they are shown to do so and find others use it with their right hand.
 - Left handed people are already accustomed to using the mouse with their non-dominant hand (right hand).
 - Introducing left-handed people to use the mouse with their left hand introduced more inconvenience even if the mouse pointer is configured to be left-handed.
@@ -35,7 +36,3 @@ Handedness has a fundamental and significant impact on user experience. Handedne
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeqfgUrnXT_VoA3sUO90v1RxzY0Q1MoNvcGNFWtWmofA0lahmltqkjsR7RmjBAAeA-IFDee1W3k3d-_SnduVz_PrRZPJ9vTdMO2uU2g8YXGpbzH27OK8xt6cm3XQbh6T8ovKPyj4g?key=InPcM8oBWM0qEjlRW5SFMn1x)
 
 - Left handed populations’ graphical user interface mental model using a mouse has been solidified with using their non-dominant hand for their mouse.
-
-# References
-
-- Basak, A., Roy, S. T., & Chakrabarti, A. (2019). Universal Design Principles in Graphical User Interface: Understanding Visual Ergonomics for the Left-Handed User s in the Right-Handed World. In Research into Design for a Connected World (Vol. 135, pp. 793–806). Springer. [https://doi.org/10.1007/978-981-13-5977-4_67](https://doi.org/10.1007/978-981-13-5977-4_67)
