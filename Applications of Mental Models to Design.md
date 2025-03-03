@@ -16,8 +16,8 @@
 
 Mental model of the designer and the user should match for a natural user experience. 
 
-- Read more at [[Apple’s design documentation for Right to Left (RTL) languages]]
-- Read more at [[Visual Ergonomics for Left-Handed Users]]
+- Read more at [[Cognitive Model|Apple’s design documentation for Right to Left (RTL) languages]]
+- Read more at [[Motor Model|Visual Ergonomics for Left-Handed Users]]
 - When designing systems for the general public, disabilities are often not considered. Read more at [[Accessibility#Design solutions for perceptual impairments|solutions for perceptual impairments]] & [[Accessibility#Design solutions for motor impairments|solutions for motor impairments]]
   -  People with limitations to their movement or sight face unique barriers when it comes to device security. Read more at [[Accessibility#Design solutions for adaptive security|solutions for adaptive security]]
 
