@@ -21,6 +21,12 @@ Mental model of the designer and the user should match for a natural user experi
 - When designing systems for the general public, disabilities are often not considered. Read more at [[Accessibility#Design solutions for perceptual impairments|solutions for perceptual impairments]] & [[Accessibility#Design solutions for motor impairments|solutions for motor impairments]]
   -  People with limitations to their movement or sight face unique barriers when it comes to device security. Read more at [[Accessibility#Design solutions for adaptive security|solutions for adaptive security]]
 
+## Design for [[Collaboration|Shared Mental Models]
+
+Designing UI for shared systems requires clear role management and real-time collaboration tools to support multiple users working together efficiently. For more on mental models in collaborative environments, see [[Shared Mental Models]]
+
+---
+
 ## Information Architecture
 
 Information Architecture (IA) is the practice of structuring, organizing, and labeling information in a way that aligns with users’ mental models, ensuring that digital interfaces are intuitive and easy to navigate. Mental models represent how users expect a system to work based on prior experiences and cognitive processes. When IA aligns with users' mental models, it enhances usability, efficiency, and decision-making, allowing users to find and process information with minimal effort. Conversely, if IA and mental models do not match, it can cause confusion, increased cognitive load, and navigation difficulties.
