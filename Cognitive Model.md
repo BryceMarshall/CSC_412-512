@@ -4,7 +4,7 @@ The [[Accessibility|cognitive model]] from the paper determines an action to acc
 
 # Apple’s design documentation for Right to Left (RTL) languages
 
-Apple documented [[https://developer.apple.com/design/human-interface-guidelines/right-to-left|Right to Left language design guide]].
+Apple documented [Right to Left language design guide](https://developer.apple.com/design/human-interface-guidelines/right-to-left).
 - Don’t reverse the order of numerals in a specific number. Even if the number appears in RTL language, keep numerals in a specific number left to right.
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfma69vEG47-qKPe9OFXWe3iXeQiUxd-Hp_9wHTFyqx6VVUVaiMb8KSM3YygM0kIphlySWACxo_DcDUpZ6Y47LUy_mfOCFixTHA1vkV8lzurv_2rAEXswhL_J-IkqWs0FUuVWYWIQ?key=InPcM8oBWM0qEjlRW5SFMn1x)

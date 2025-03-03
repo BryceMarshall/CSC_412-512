@@ -2,7 +2,7 @@ Perceptual impairments are disabilities in perceptual organs such as visual loss
 
 # Mental model of blind users to assist designers in system development
 
-[[https://doi.org/10.1109/ITSIM.2010.5561350|This paper]] summarizes existing mental model of the blind population and advance the existing model.
+[This paper](https://doi.org/10.1109/ITSIM.2010.5561350) summarizes existing mental model of the blind population and advance the existing model.
 - Measuring mental model can be found [[Mental Model Measurement Methods|here]]
 - Understanding the mental model of blind users has been challenging.
 - Existing mental models for the blind are configured by Kurniawan and Sutcliffe. In the study by Kurniawan et al, blind people have 3 strategies in dealing with a new environment.

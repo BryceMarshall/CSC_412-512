@@ -28,7 +28,7 @@ Handedness has a fundamental and significant impact on user experience. Handedne
 
 # Universal Design Principles in Graphical User Interface: Understanding Visual Ergonomics for the Left-Handed Users in the Right-Handed World.
 
-This [[https://doi.org/10.1007/978-981-13-5977-4_67|paper]] has found that a mental model of left handed population using right handed mouse has been solidified that there was no benefit added by using their dominant hand for GUI interaction. 
+This [paper](https://doi.org/10.1007/978-981-13-5977-4_67) has found that a mental model of left handed population using right handed mouse has been solidified that there was no benefit added by using their dominant hand for GUI interaction. 
 - People were introduced to computer mouse in their childhood. They use the mouse with their right hand since they are shown to do so and find others use it with their right hand.
 - Left handed people are already accustomed to using the mouse with their non-dominant hand (right hand).
 - Introducing left-handed people to use the mouse with their left hand introduced more inconvenience even if the mouse pointer is configured to be left-handed.
