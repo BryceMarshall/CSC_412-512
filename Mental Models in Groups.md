@@ -1,5 +1,3 @@
-# Mental Models in Groups
-
 Mental models of complex systems often require knowledge from more than one person.
 
 ## Mental Modeler

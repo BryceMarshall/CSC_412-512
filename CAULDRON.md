@@ -1,5 +1,3 @@
-## CAULDRON
-
 CAULDRON is a supporting tool for mental model elicitation and decision-making in user experience (UX) research, specifically designed to enhance Information Architecture (IA) development. Developed by [Martín & Macías (2023)](https://doi.org/10.1080/10447318.2022.2041885) It utilizes [[Card Sorting]], a widely used UX research technique, to analyze how users categorize and relate information. CAULDRON integrates advanced statistical analysis and machine learning techniques, such as K-Means Clustering and Decision Trees to display classification trends and category relationships.
 
 The tool provides an interactive platform where UX researchers can collect, analyze, and refine information structures, enabling them to develop data-driven IA frameworks.

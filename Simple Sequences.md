@@ -1,5 +1,3 @@
-# Simple Sequences
-
 - Users of the system rely on memorizing the sequences of system actions which accomplishes a particular task
 
 - E.g. Using a Linux Terminal, memorizing the but not knowing the meaning behind text commands

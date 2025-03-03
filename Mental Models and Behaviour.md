@@ -1,5 +1,3 @@
-# Mental Models and Behaviour
-
 “Mental model is the dominant factor that determines the properties of usability” ([Mori and Yamaoka, 2014](https://personales.upv.es/thinkmind/dl/conferences/achi/achi_2014/achi_2014_3_40_20183.pdf))
 
 - The contents of people’s knowledge (theories of system functionality or general beliefs of a similar domain) can explain users’ behavior

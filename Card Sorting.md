@@ -1,6 +1,3 @@
-
-## Card Sorting
-
 Card Sorting is a research practice which asks subjects to sort a number of concepts into groups\[[1](https://www.nngroup.com/articles/card-sorting-definition/)\]\[[2](https://dl.acm.org/doi/10.5555/2835577.2835578)\]. The subjects may be asked to choose from predefined groups or create their own.
 
 This method is useful for eliciting mental models from test subjects. 

@@ -1,5 +1,3 @@
-## Designing User Interfaces
-
 - ([Loeffler et al. 2013](https://joernhurtienne.com/Publications_files/BHCI_IBIS_final.pdf))  present the IBIS method of designing intuitive interfaces (link **how mental models affect behavior**) which suggests considering and incorporating image schemas as a requirement when designing an interface. Image schemas are core structural ideas which come from everyday experience, for example up represents “more” and down represents “less” . 
 
   ![[Pasted image 20250302095459.png]]

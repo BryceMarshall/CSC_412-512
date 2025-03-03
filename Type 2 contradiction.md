@@ -1,5 +1,3 @@
-## Type 2 contradiction
-
 A type 2 contradiction is more common to corporations with a designated security department. A type 2 contradiction occurs when either a user's mental model is more complicated than the system they are using or the user assumes the system does something that it does not. 
 
 An example of a type 2 contradiction is when an employee opens a virus infested email on a company computer. The employee's mental model of the computer's security might involve a firewall that prevents any viruses when that might not be the case.  

@@ -1,5 +1,3 @@
-# Shared Mental Models
-
 A Shared Mental Model refers to a common understanding among team members, enabling them to coordinate effectively, anticipate actions, and adapt to task demands. Literature general categorizes shared mental models into four types:
 
 1. Task-Specific Knowledge – Shared understanding of specific procedures, sequences, and strategies needed to perform a task.

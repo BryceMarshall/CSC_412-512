@@ -1,5 +1,3 @@
-# Instructions for Mental Models
-
 * Mental models for systems can be taught effectively by using multimedia instruction, for example by combining visuals (like animations and images), audio, and textual instructions ([Mayer and Moreno, 2002](https://psycnet.apa.org/record/2002-02073-014)) 
 
 * Learners can form mental models more effectively by allowing the learner to interact with the system and identify important information and operations themselves (active learning), which allows them to make their own mental connections to existing knowledge (link **mental models**) ([Mayer, 1999](https://www.jbe-platform.com/content/journals/10.1075/dd.1.1.02may))

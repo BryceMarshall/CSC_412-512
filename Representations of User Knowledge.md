@@ -1,5 +1,3 @@
-# Representations of User Knowledge
-
 There are three categories of representation (of increasing complexity) which describe what a user knows about a system: Simple sequences, knowledge of methods, and mental models:
 
 - [[Simple Sequences]]: At this level of representation, the user does not have any knowledge of the design of the system or how the system works.
