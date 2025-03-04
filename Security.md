@@ -4,3 +4,5 @@ Mental models play an important role in the effectiveness of cybersecurity. This
 When there is a contradiction between reality and one's mental model, it generally comes in one of 2 forms. 
 1. A [[Type 1 contradiction]] is when someone uses [[Abstraction]] to oversimplify the reality of a very complicated system. 
 2. A [[Type 2 contradiction]] is when one's mental model is completely different from the reality one is attempting to understand. 
+
+For security related to accessibility go to [[Adaptive Security]]
