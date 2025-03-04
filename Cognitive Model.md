@@ -1,4 +1,4 @@
-Cognitive processes are the ability to think, learn and remember. The [[Accessibility|paper]] utilized cognitive models to simulate interaction for determining an action to accomplish the current task. This tab provides an example of the cognitive process of Right To Left (RTL) language users.
+Cognitive processes are the ability to think, learn and remember. The [[Accessibility|Pradipta Biswas, Peter Robinson et al (2011)]] utilized cognitive models to simulate interaction for determining an action to accomplish the current task. This tab provides an example of the cognitive process of Right To Left (RTL) language users.
 
 The [[Accessibility|cognitive model]] from the paper determines an action to accomplish the current task. For the RTL population, their [[Mental Models and Behaviour|cognitive process within their mental model affects their accessibility of user interface]]. Apple shared a guideline on how to design a user interface for the RTL population.
 

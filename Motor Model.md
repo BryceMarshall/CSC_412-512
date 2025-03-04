@@ -1,4 +1,4 @@
-Motor impairment refers to a physical impairment in movement or coordination. From the [[Accessibility|paper]], the motor behaviour model predicts the completion time and possible interaction patterns for performing that action. It is based on statistical analysis of screen navigation paths of disabled users.
+Motor impairment refers to a physical impairment in movement or coordination. According to [[Accessibility|Pradipta Biswas, Peter Robinson et al (2011)]], the motor behaviour model predicts the completion time and possible interaction patterns for performing that action. It is based on statistical analysis of screen navigation paths of disabled users.
 
 Users with motor impairments develop different expectations and strategies for interacting with digital interfaces compared to users without impairments. Their mental model of interaction is shaped by their physical limitations—they anticipate difficulty with precise cursor movements, the need for alternative navigation methods, or slower response times. If an interface does not accommodate these expectations, such as requiring double-clicking or precise dragging, it disrupts their workflow, making the system feel unintuitive and frustrating.
 
@@ -9,18 +9,11 @@ Above: Mouse movement trajectory for a user with cerebral palsy, from ([Biswas *
 
 ([Biswas *et al* (2012)](https://doi.org/10.1080/10447318.2011.565718)) discusses how motor impairments affect users' ability to interact with digital interfaces and how [simulation-based modeling](LINK TO MENTAL MODEL STUDIES) can help designers anticipate and address these challenges, outlined below.
 
-- Difficulty with precise cursor movements (e.g., due to tremors, muscle weakness, or limited dexterity)
-	- Solution: Increase button sizes and clickable areas to reduce the need for precision.
-- Accidental clicks and unintended actions (common in conditions like Parkinson’s disease)
-	- Solution: Implement customizable click delay settings to filter out unintended rapid clicks.
-- Struggles with double-clicking or dragging elements (common for users with motor impairments)
-	- Solution: Provide single-click alternatives and allow keyboard navigation for selection and movement.
-- Prolonged reaction times and difficulty with timed tasks (e.g., users with cerebral palsy or multiple sclerosis)
-	- Solution: Offer adjustable time limits or allow users to disable time-based interactions.
-- Inability to use a traditional mouse or touchscreen
-	- Solution: Support alternative input methods such as voice commands, eye-tracking, or adaptive switches.
-- Fatigue from prolonged interaction or repetitive motions
-	- Solution: Implement keyboard shortcuts, predictive text, and reduced motion options to minimize effort.
+| **Problem**                                                                                                                                                                                                                                                                                                      | **Example**                                                                                                                                                                                          | **Solution**                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Users with visual impairments rely on screen readers, voice commands, or magnification tools, but many security features (CAPTCHAs, password fields, MFA notifications) are not compatible with assistive technologies.**                                                                                      | A user who is blind and depends on screen readers may struggle with image-based authentication or inaccessible CAPTCHA challenges, forcing them to seek assistance and exposing private credentials. | Implement audio-based CAPTCHAs, voice-activated authentication, and screen reader-friendly verification prompts.                                  |
+| **Users with cognitive disabilities (e.g., dyslexia, ADHD, memory impairments) may struggle with complex passwords, time-sensitive logins, or multi-step verification processes. Security measures that require quick responses, pattern recognition, or precise recall may not align with their mental model.** | A user with a memory impairment may struggle to recall strong passwords or security questions, leading to frequent lockouts or unsafe behaviors like writing down passwords.                         | Provide password managers, biometric authentication (fingerprint/face ID), and customizable security settings that reduce cognitive strain.       |
+| **Users with motor impairments (e.g., Parkinson’s, cerebral palsy, arthritis) may struggle with precise cursor movements, fast typing, or completing time-sensitive authentication steps. Security interfaces that assume rapid and precise input create major usability barriers.**                             | A user with tremors may struggle to enter a password without typos or complete a two-factor authentication (2FA) code within a short time frame, leading to account lockouts.                        | Support alternative input methods, such as adaptive keyboards, voice-based authentication, and longer timeframes for entering verification codes. |
 
 This research underscores the need for a proactive approach to accessibility, where user models are used not just to identify barriers, but to inform design choices that empower all users, regardless of physical ability.
 
@@ -28,7 +21,7 @@ Handedness has a fundamental and significant impact on user experience. Handedne
 
 # Universal Design Principles in Graphical User Interface: Understanding Visual Ergonomics for the Left-Handed Users in the Right-Handed World.
 
-This [paper](https://doi.org/10.1007/978-981-13-5977-4_67) has found that a mental model of left handed population using right handed mouse has been solidified that there was no benefit added by using their dominant hand for GUI interaction. 
+According to [Abhinav Basak, Shatarupa T. Roy (2019)](https://doi.org/10.1007/978-981-13-5977-4_67) has found that a mental model of left handed population using right handed mouse has been solidified that there was no benefit added by using their dominant hand for GUI interaction. 
 - People were introduced to computer mouse in their childhood. They use the mouse with their right hand since they are shown to do so and find others use it with their right hand.
 - Left handed people are already accustomed to using the mouse with their non-dominant hand (right hand).
 - Introducing left-handed people to use the mouse with their left hand introduced more inconvenience even if the mouse pointer is configured to be left-handed.

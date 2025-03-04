@@ -1,6 +1,6 @@
 Understanding the mental model of various users during the development process guides an user interface with more accessibility. Current design practices often isolate elderly and disabled users, treating them as having “special needs” rather than incorporating accessibility from the outset. The User model simulates the interaction patterns of users for undertaking a task analyzed by the task model under the configuration set by the interface model.
 
-To address this, [the paper](https://doi.org/10.1080/10447318.2011.565718) introduces a simulation-based approach to help designers understand and predict the interaction challenges faced by users with different abilities. The simulation system models:
+To address this, according to [Pradipta Biswas, Peter Robinson et al (2011)](https://doi.org/10.1080/10447318.2011.565718) introduces a simulation-based approach to help designers understand and predict the interaction challenges faced by users with different abilities. The simulation system models:
 
 - [[Perceptual Model]] – Simulates how users see and process visual information. (e.g., vision loss, color blindness).
 - [[Cognitive Model]] – Represents decision-making strategies and attention allocation. (e.g., how users navigate interfaces).
