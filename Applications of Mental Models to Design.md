@@ -1,8 +1,8 @@
-- ([Loeffler et al. 2013](https://joernhurtienne.com/Publications_files/BHCI_IBIS_final.pdf))  present the IBIS method of designing intuitive interfaces (link **how mental models affect behavior**) which suggests considering and incorporating image schemas as a requirement when designing an interface. Image schemas are core structural ideas which come from everyday experience, for example up represents “more” and down represents “less” . 
+- ([Loeffler et al. 2013](https://joernhurtienne.com/Publications_files/BHCI_IBIS_final.pdf))  present the IBIS method of designing [[Mental Models and Behaviour|intuitive interfaces]]  which suggests considering and incorporating image schemas as a requirement when designing an interface. Image schemas are core structural ideas which come from everyday experience, for example up represents “more” and down represents “less” . 
 
   ![[Pasted image 20250302095459.png]]
 
-- ([Qian et al. 2011](https://dl.acm.org/doi/pdf/10.1145/2087756.2087780?casa_token=wOwcaeicenAAAAAA:gThogt4s8sDP2anRtF17_hGTfJ4Aum2j2K0uc4j6A7Rg5kpRJsHT_tJILFzPTX6NUvwBqsnCe5-w) ) propose a design framework for designing interfaces in which metaphors (**link representations**) are constructed based on users’ mental models. Users provide a sketches for designers to access a user’s mental model of a system, then design an interface which incorporates some of the users’ important expectations with the incorporation of metaphors in the UI (e.g. using real world objects as names or navigation tools)
+- ([Qian et al. 2011](https://dl.acm.org/doi/pdf/10.1145/2087756.2087780?casa_token=wOwcaeicenAAAAAA:gThogt4s8sDP2anRtF17_hGTfJ4Aum2j2K0uc4j6A7Rg5kpRJsHT_tJILFzPTX6NUvwBqsnCe5-w) ) propose a design framework for designing interfaces in which [[Representations of User Knowledge|metaphors]] are constructed based on users’ mental models. Users provide a sketches for designers to access a user’s mental model of a system, then design an interface which incorporates some of the users’ important expectations with the incorporation of metaphors in the UI (e.g. using real world objects as names or navigation tools)
 
 ![[Pasted image 20250302095507.png | center | 600]]
   
@@ -17,11 +17,11 @@ Mental model of the designer and the user should match for a natural user experi
 - Read more at [[Cognitive Model|Apple’s design documentation for Right to Left (RTL) languages]]
 - Read more at [[Motor Model|Visual Ergonomics for Left-Handed Users]]
 - When designing systems for the general public, disabilities are often not considered. Read more at [[Accessibility#Design solutions for perceptual impairments|solutions for perceptual impairments]] & [[Accessibility#Design solutions for motor impairments|solutions for motor impairments]]
-  -  People with limitations to their movement or sight face unique barriers when it comes to device security. Read more at [[Accessibility#Design solutions for adaptive security|solutions for adaptive security]]
+-People with limitations to their movement or sight face unique barriers when it comes to device security. Read more at [[Accessibility#Design solutions for adaptive security|solutions for adaptive security]]
 
-## Design for [[Collaboration|Shared Mental Models]
+## Design for [[Shared Mental Models|Collaboration]]
 
-Designing UI for shared systems requires clear role management and real-time collaboration tools to support multiple users working together efficiently. For more on mental models in collaborative environments, see [[Shared Mental Models]]
+Designing UI for shared systems requires clear role management and real-time collaboration tools to support multiple users working together efficiently. 
 
 ---
 
@@ -37,3 +37,6 @@ Above: An example of the information architecture for an e-commerce site. [Image
 
 [Martín & Macías (2023)](https://doi.org/10.1080/10447318.2022.2041885) developed [[CAULDRON]] - Comprehensive Analysis User-centered Learning-based Decision-making Research On Navigation – as a tool to help designers capture user models and inform information architecture. 
 
+### [[Shared Mental Models|Collaborative Visualization Systems ]]
+
+Collaborative Visualization Systems (CoVis) are interactive platforms that enable multiple users to work together in real-time data analysis, decision-making, and problem-solving. The idea behind these platforms is that SMM can be improved using technological development. In such environments, floor control is essential to ensure smooth collaboration, prevent conflicts, and maintain alignment among users' shared mental models. More information can be found on the page for [[Applications of Mental Models to Design|designing user interfaces]] 

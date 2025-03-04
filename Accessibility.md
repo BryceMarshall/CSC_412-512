@@ -8,4 +8,4 @@ To address this, according to [Pradipta Biswas, Peter Robinson et al (2011)](htt
 
 The system evaluates interfaces by simulating interaction patterns for diverse users and can predict task completion times based on user characteristics. It reduces the need for extensive user trials and allows designers to test different design alternatives efficiently.
 
-The authors emphasize the importance of "designing for all" rather than retrofitting accessibility later.
+The authors emphasize the importance of "[[Adaptive Security|designing for all]]" rather than retrofitting accessibility later.

@@ -1,6 +1,6 @@
-- Users of the system rely on memorizing the sequences of system actions which accomplishes a particular task
+Simple sequences are when users of the system rely on memorizing the sequences of system actions that accomplish a particular task
 
-- E.g. Using a Linux Terminal, memorizing the but not knowing the meaning behind text commands
+- E.g. Using a Linux Terminal, memorizing but not knowing the meaning behind text commands.
 
 ![[Pasted image 20250302095411.png | center | 500]]
 

@@ -5,7 +5,7 @@ A Shared Mental Model refers to a common understanding among team members, enabl
 3. Knowledge of Teammates – Awareness of team members’ strengths, weaknesses, and tendencies, improving coordination.
 4. Attitudes and Beliefs – Shared values and perspectives that influence team decision-making and cohesion.
 
-[Yusoff & Salim, (2020)](https://doi.org/10.1007/978-3-030-49044-7) Outlined the following key finidngs on their study of SMMs:
+[Yusoff & Salim, (2020)](https://doi.org/10.1007/978-3-030-49044-7) Outlined the following key findings on their study of SMMs:
 
 1. High-performing teams tend to develop more accurate and similar shared mental models, leading to better coordination.
 2. Visualization systems improve shared cognition by externalizing thought processes and helping users understand each other’s actions.
@@ -17,6 +17,3 @@ Floor control refers to the mechanism that determines who has control over inter
 
 A well-managed floor control system helps maintain alignment between team members’ mental models, ensuring that individuals understand who is responsible for what actions, when they can contribute, and how shared resources are updated. Poorly implemented floor control can disrupt shared cognition, leading to confusion and inefficiencies in collaborative tasks. 
 
-### Collaborative Visualization Systems 
-
-Collaborative Visualization Systems (CoVis) are interactive platforms that enable multiple users to work together in real-time data analysis, decision-making, and problem-solving. The idea behind these platforms is that SMM can be improved using technological development. In such environments, floor control is essential to ensure smooth collaboration, prevent conflicts, and maintain alignment among users' shared mental models. More information can be found on the page for [[Applications of Mental Models to Design|designing user interfaces]] 
