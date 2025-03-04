@@ -39,4 +39,4 @@ Above: An example of the information architecture for an e-commerce site. [Image
 
 ### [[Shared Mental Models|Collaborative Visualization Systems ]]
 
-Collaborative Visualization Systems (CoVis) are interactive platforms that enable multiple users to work together in real-time data analysis, decision-making, and problem-solving. The idea behind these platforms is that SMM can be improved using technological development. In such environments, floor control is essential to ensure smooth collaboration, prevent conflicts, and maintain alignment among users' shared mental models. More information can be found on the page for [[Applications of Mental Models to Design|designing user interfaces]] 
+Collaborative Visualization Systems (CoVis) are interactive platforms that enable multiple users to work together in real-time data analysis, decision-making, and problem-solving. The idea behind these platforms is that SMM can be improved using technological development. In such environments, floor control is essential to ensure smooth collaboration, prevent conflicts, and maintain alignment among users' shared mental models.
